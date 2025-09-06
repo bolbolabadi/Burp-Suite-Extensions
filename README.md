@@ -19,4 +19,4 @@ This makes working with internationalized web apps easier, since encoded Unicode
    Download from: https://www.jython.org/download  
 2. Clone this repo:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/unicode-decoder-burp.git
+   git clone https://github.com/bolbolabadi/unicode-decoder-burp.git
